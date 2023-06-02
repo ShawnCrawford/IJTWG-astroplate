@@ -1,21 +1,21 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "Ida Jane And The Weekend Gardeners",
+    "base_url": "https://bravenewdesign.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_darkmode": "/images/logo.png",
+    "logo_width": "250",
+    "logo_height": "250",
+    "logo_text": "The Weekend Gardeners"
   },
 
   "settings": {
     "search": true,
-    "sticky_header": true,
-    "theme_switcher": true,
+    "sticky_header": false,
+    "theme_switcher": false,
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [Brave New Design](https://bravenewdesign.com)"
   },
 
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "link": "https://bravenewdesign.com/contact.html"
   },
 
   "disqus": {
